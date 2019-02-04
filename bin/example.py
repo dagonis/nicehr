@@ -1,29 +1,3 @@
-# nicehr
-Nice Autoscaling Horizontal Rules for Python. The horizontal line will autosize itself to the current size of the terminal. You can make it a wild rainbow if you want.
-
-Works on Python 3.6 and 3.7.
-
-# Install
-Get it from pip
-
-```bash
-pip install nicehr
-```
-
-or clone and install it yourself
-
-```bash
-pip install -r requirements.txt
-python setup.py install
-```
-
-# Usage
-Just import nicehr and you should be good to go!
-
-nicehr.nice_hr() is the function you are looking for.
-
-# Example
-```python
 import sys
 
 import nicehr
@@ -43,10 +17,3 @@ def main():
 
 if __name__ == '__main__':
     sys.exit(main())
-```
-
-The output should look like:
-
-![example output](https://github.com/dagonis/nicehr/static/nicehr.png "Nice HR Output")
-
-This code is in the bin/ folder if you want to run it yourself.
