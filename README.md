@@ -47,6 +47,6 @@ if __name__ == '__main__':
 
 The output should look like:
 
-![example output](https://github.com/dagonis/nicehr/static/nicehr.png "Nice HR Output")
+![example output](https://github.com/dagonis/nicehr/blob/master/static/nicehr.png "Nice HR Output")
 
 This code is in the bin/ folder if you want to run it yourself.
